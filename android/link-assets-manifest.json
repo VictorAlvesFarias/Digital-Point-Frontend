@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Cleandro.ttf",
+      "sha1": "0f93e2fc5831bec573872bcf4a14006d25ea5199"
+    },
+    {
+      "path": "assets/fonts/Klik-Light.otf",
+      "sha1": "6d111f7021ba904df3dcf073231e96eb71e8b961"
+    },
+    {
+      "path": "assets/fonts/Praktika-Light.otf",
+      "sha1": "9f5a1ec169f3cd3d5a3f75890a14b5e886e8d6ca"
+    },
+    {
+      "path": "assets/fonts/Style.otf",
+      "sha1": "8b1a0888e480fb12476609da4566a0b1ccf59656"
+    }
+  ]
+}
